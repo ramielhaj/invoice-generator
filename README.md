@@ -45,6 +45,12 @@ line 16: change the CSV location accordingly
 
 
 
+Notice: running the code should be from the testingcombin.py file
+
+
+
+
+
 
 
 
